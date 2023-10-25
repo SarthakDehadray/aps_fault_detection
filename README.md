@@ -13,3 +13,6 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+```
+use wget link to get the data
+```
